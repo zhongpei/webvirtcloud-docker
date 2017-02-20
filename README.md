@@ -124,7 +124,7 @@ Again (for verification): xxxxxx
 
 列出用户
 ```
-$ sudo saslpasswd2 -f /etc/libvirt/passwd.db
+$ sudo sasldblistusers2 -f /etc/libvirt/passwd.db
 ```
 
 删除用户
